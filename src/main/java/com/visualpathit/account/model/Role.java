@@ -5,6 +5,7 @@ import java.util.Set;
 /**{@author waheedk} !*/
 @Entity
 @Table(name = "role")
+
 public class Role {
 	/** the id field !*/
     private Long id;
