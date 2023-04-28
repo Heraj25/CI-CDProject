@@ -8,7 +8,6 @@ import java.util.Set;
 public class Role {
 	/** the id field !*/
     private Long id;
-
     /** the name field !*/
     private String name;
     /** the user field !*/
