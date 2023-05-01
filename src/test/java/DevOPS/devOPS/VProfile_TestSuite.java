@@ -38,8 +38,5 @@ public class VProfile_TestSuite extends Variables {
 	    driver.close();
 	}
 	
-	
-	
-	
 
 }
