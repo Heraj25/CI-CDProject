@@ -67,6 +67,8 @@ public class UserController {
         }
         return "login";
     }
+
+    
     /** {@inheritDoc} */
     @RequestMapping(value = { "/", "/welcome"}, method = RequestMethod.GET)
     public final String welcome(final Model model) {
